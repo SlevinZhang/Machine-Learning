@@ -5,10 +5,10 @@
 3. Logistic Regression  
 4. Linear Regression  
 5. Graphical Model  
-  Bayesian Networks  
-  Markov Random Fields  
+* Bayesian Networks  
++ Markov Random Fields  
 6. EM algorithm  
 7. SVM  
 8. Neural Network  
-  Keras + Tensorflow  
-  Project  
+* Keras + Tensorflow  
++ Project  
