@@ -1,5 +1,5 @@
-# Machine-Learning
-The Topic included
+## Machine-Learning
+# The Topic included  
 1.Decision Tree and Forest  
 2.Naive Bayes Algorithm/classfier  
 3.Logistic Regression  
